@@ -73,6 +73,7 @@ window.addEventListener("scroll", function(e){
                 }else{
                     if(projectsStatisticPrimary[index] == projectsStatisticFinal[index]){
                         document.querySelectorAll(".projects-statistic div h2")[index].textContent = projectsStatisticFinal[index] + "+";
+                        clearInterval(increase);
                     }else{
                         increaseNumber(10, index);
                     }
