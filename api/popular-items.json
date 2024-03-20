@@ -1,0 +1,101 @@
+[
+    
+    {
+        "price" : "1,730,000",
+        "address" : {
+            "province" : "Groningen",
+            "country" : "Netherlands"
+        },
+        "image" : "./images/popular-item-image-2.jpg",
+        "components" : {
+            "bed" : 5,
+            "bath" : 1
+        },
+        "area" : 3278,
+        "field" : "buy"
+    },
+    {
+        "price" : "1,470,000",
+        "address" : {
+            "province" : "West Coast",
+            "country" : "Canada"
+        },
+        "image" : "./images/popular-item-image-3.jpg",
+        "components" : {
+            "bed" : 12,
+            "bath" : 5
+        },
+        "area" : 1560,
+        "field" : "buy"
+    },
+    {
+        "price" : "970,000",
+        "address" : {
+            "province" : "Roam",
+            "country" : "Italy"
+        },
+        "image" : "./images/popular-item-image-4.jpg",
+        "components" : {
+            "bed" : 7,
+            "bath" : 2
+        },
+        "area" : 1460,
+        "field" : "rent"
+    },
+    {
+        "price" : "835,000",
+        "address" : {
+            "province" : "Barcelona",
+            "country" : "Spain"
+        },
+        "image" : "./images/popular-item-image-5.jpg",
+        "components" : {
+            "bed" : 5,
+            "bath" : 3
+        },
+        "area" : 970,
+        "field" : "sale"
+    },
+    {
+        "price" : "435,000",
+        "address" : {
+            "province" : "Madrid",
+            "country" : "Spain"
+        },
+        "image" : "./images/popular-item-image-6.jpg",
+        "components" : {
+            "bed" : 3,
+            "bath" : 2
+        },
+        "area" : 830,
+        "field" : "sale"
+    },
+    {
+        "price" : "1,500,000",
+        "address" : {
+            "province" : "Radiomen 23",
+            "country" : "Croatia"
+        },
+        "image" : "./images/popular-item-image-1.jpg",
+        "components" : {
+            "bed" : 3,
+            "bath" : 2
+        },
+        "area" : 2110,
+        "field" : "buy"
+    },
+    {
+        "price" : "1,100,000",
+        "address" : {
+            "province" : "Paris",
+            "country" : "France"
+        },
+        "image" : "./images/popular-item-image-7.jpg",
+        "components" : {
+            "bed" : 7,
+            "bath" : 2
+        },
+        "area" : 1560,
+        "field" : "sale"
+    }
+]

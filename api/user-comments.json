@@ -1,0 +1,37 @@
+[
+    {
+        "image" : "./images/person-1.jpg",
+        "userName" : "andrew john",
+        "userJob" : "company manager",
+        "userText" : "Exceptional service, found my dream home swifty. The real estate company exceeded all expectations. highly recommended",
+        "userStars" : 4
+    },
+    {
+        "image" : "./images/person-2.jpg",
+        "userName" : "jared leto",
+        "userJob" : "designer",
+        "userText" : "Exceptional service, found my dream home swifty. The real estate company exceeded all expectations. highly recommended",
+        "userStars" : 3
+    },
+    {
+        "image" : "./images/person-3.jpg",
+        "userName" : "allison homels",
+        "userJob" : "data scientist",
+        "userText" : "Exceptional service, found my dream home swifty. The real estate company exceeded all expectations. highly recommended",
+        "userStars" : 4
+    },
+    {
+        "image" : "./images/person-4.jpg",
+        "userName" : "mark alonso",
+        "userJob" : "AI engeenier",
+        "userText" : "Exceptional service, found my dream home swifty. The real estate company exceeded all expectations. highly recommended",
+        "userStars" : 5
+    },
+    {
+        "image" : "./images/person-5.jpg",
+        "userName" : "json vidal",
+        "userJob" : "product manager",
+        "userText" : "Exceptional service, found my dream home swifty. The real estate company exceeded all expectations. highly recommended",
+        "userStars" : 4
+    }
+]
