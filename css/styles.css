@@ -779,6 +779,8 @@ a{
 @media screen and (max-width:1200px){
     .cities .cities-container{
         overflow-x: scroll;
+    }.cities header{
+        transform: translateY(-150%);
     }
 }
 @media screen and (max-width:840px){
@@ -791,9 +793,6 @@ a{
             "London Miami Barcelona"
             "London Miami Barcelona"
         ;
-    }
-    .cities header{
-        transform: translateY(-150%);
     }
 }
 
